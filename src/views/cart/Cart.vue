@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name:'Cart'
+  name:'CartView'
 }
 </script>
 <style scoped>
